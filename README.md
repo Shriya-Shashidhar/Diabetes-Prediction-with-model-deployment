@@ -9,3 +9,7 @@ The following models have been tried:
 2. SVC
 3. Random Forest Classifier
 
+<c> DEPLOYMENT: </b> /n
+
+The app is deployed using streamlit on heroku : https://diabetes-predictionapp.herokuapp.com/
+
